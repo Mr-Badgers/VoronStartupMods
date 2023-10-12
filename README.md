@@ -9,7 +9,7 @@ Obviously if this isn't your first build or isn't your first voron you likely do
 So here is a list of mods that you can do to your printer during your first build:
 
 | Mod | Description | Recommendation | Frustration Level |
-| --- | --- | --- | --- |
+| --- | --- | --- | ---: |
 | Nevermore Micro | Activated carbon filter mounted in the chamber or under the bed. | Generally harmess, you may have a few questions on setup but it's about as easy as setting up the exhaust fan on a V2 | 1/10 |
 | Klicky Probe | This replaces the standard Omron Inductive probe at the toolhead for Quad-Gantry Leveling/Z-Tilt and Bed Meshing. Your toolhead picks it up uses it, and puts it back. | Skip this, use the inductive probe, the setup is involved, there is macro work that needs to be done, this is best left for when you understand Klipper a bit and your inductive probe starts failing. | 5/10 |
 | Beacon Probe | High speed eddy current probe that maps your entire bed with thick meshes. | No, just no, if you can't get a regular inductive probe to work, what makes you think you can do this? | 7/10 |

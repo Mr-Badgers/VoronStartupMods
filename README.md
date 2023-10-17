@@ -4,6 +4,8 @@ Repository common mods that people add to their first voron build
 Commonly Voron advice is to "Build Stock" then Mod. The reason for this is because it is much easier to get support if you are following a known source and working from the same material.
 Voron Discord is exceptionally helpful, but if you have a conversation that starts with "I need help with homing", and continues with "oh yeah that doesn't apply to me because I have this special mod or sensorless homing" you are doing to frustrate the people helping you.
 
+Disclaimer: I can't cover every single possible mod and this list is clearly biased.
+
 Obviously if this isn't your first build or isn't your first voron you likely don't need this information.
 
 So here is a list of mods that you can do to your printer during your first build:
